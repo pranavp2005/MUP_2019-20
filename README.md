@@ -1,2 +1,2 @@
 # MUP_2019-20
-Repository for labs and design assignment for the Microprocessors and Interfacing course
+Repository for smart lighting project done as a part of Microprocessors and Interfacing course.
